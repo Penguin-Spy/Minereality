@@ -1,9 +1,9 @@
-# Fabric Example Mod
+# Minereality
 
-## Setup
+## Usage
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Install the [Fabric launcher](https://fabricmc.net/use/) for the version you want, then download the Minereality version for the same version (releases usually span multiple Minecraft versions).
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Uhh don't steal my code k thx.
